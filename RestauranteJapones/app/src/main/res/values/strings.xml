@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">Restaurante Japones</string>
+    <string name="txtLogin">LOGIN</string>
+    <string name="txtUsu">Usuário:</string>
+    <string name="edtxtUsu">Insira seu usuário</string>
+    <string name="txtSen">Senha:</string>
+    <string name="edtxtSen">Insira sua senha</string>
+    <string name="btnLogin">Logar</string>
+    <string name="txtCadastro">CADASTRO</string>
+    <string name="txtMenu">MENU</string>
+    <string name="txtNome">Nome:</string>
+    <string name="edtxtNome">Insira seu nome</string>
+    <string name="txtEmail">Email:</string>
+    <string name="edtxtEmail">Insira seu email</string>
+    <string name="txtConf">Confirmar senha:</string>
+    <string name="edtxtConf">Confirme sua senha</string>
+    <string name="btnCadastrar">Cadastrar</string>
+    <string name="imgCard"></string>
+    <string name="txtCard">CARDÁPIO</string>
+    <string name="btnPedido">Fazer pedido</string>
+    <string name="txtPed">ESCREVA SEU PEDIDO</string>
+    <string name="txtmultPed">Pedido</string>
+    <string name="btnPedir">Enviar pedido</string>
+    <string name="btnInfos">Informações</string>
+    <string name="btnLocal">Localização</string>
+    <string name="btnInsta">Instagram</string>
+</resources>
